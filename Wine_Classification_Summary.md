@@ -68,8 +68,8 @@ Across Random Forest and XGBoost:
 5. Other features like residual sugar and density had minimal predictive influence.
 
 **Feature Importance Chart:**
-![Feature Importance](images/feature_importance_rf.png)
-![Feature Importance](images/feature_importance_XGBoost.png)
+![Feature Importance](feature_importance_rf.png)
+![Feature Importance](feature_importance_XGBoost.png)
 
 ---
 
@@ -79,7 +79,7 @@ Across Random Forest and XGBoost:
 - **SVM** performed poorly for Class 0 but very well for Class 1, reflected in its ROC shape.
 
 **ROC Curve:**
-![ROC Curve](images/roc_curve_tuned_rf.png)
+![ROC Curve](roc_curve_tuned_rf.png)
 
 ---
 
