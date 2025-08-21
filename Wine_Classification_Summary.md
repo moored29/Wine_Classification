@@ -67,7 +67,7 @@ Across Random Forest and XGBoost:
 4. **Citric Acid** – Positive but smaller contributor.
 5. Other features like residual sugar and density had minimal predictive influence.
 
-**Feature Importance Chart:**
+**Feature Importance Charts:**
 ![Feature Importance](feature_importance_rf.png)
 ![Feature Importance](feature_importance_XGBoost.png)
 
