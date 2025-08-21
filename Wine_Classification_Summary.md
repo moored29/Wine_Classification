@@ -1,4 +1,4 @@
-# 🍷 Red Wine Quality Classification – Results Summary
+# 🍷 Results Summary: Red Wine Quality Classification
 
 ## 1. Project Overview
 The goal of this project was to classify red wines as **"Good" (quality ≥ 6)** or **"Bad" (quality < 6)** using physicochemical measurements.  
